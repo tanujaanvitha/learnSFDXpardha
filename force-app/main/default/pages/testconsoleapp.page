@@ -1,0 +1,4 @@
+<apex:page >
+  usernme {!$User.FirstName}
+  case id {!$CurrentPage.parameters.id}
+</apex:page>
